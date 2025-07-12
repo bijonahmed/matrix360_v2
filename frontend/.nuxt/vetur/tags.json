@@ -1,0 +1,38 @@
+{
+  "Banner": {
+    "description": "Auto imported from components/Banner.vue"
+  },
+  "ExploreCampain": {
+    "description": "Auto imported from components/ExploreCampain.vue"
+  },
+  "Features": {
+    "description": "Auto imported from components/Features.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Loader": {
+    "description": "Auto imported from components/Loader.vue"
+  },
+  "MainContent": {
+    "description": "Auto imported from components/MainContent.vue"
+  },
+  "MainSlider": {
+    "description": "Auto imported from components/MainSlider.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/Products.vue"
+  },
+  "SellingFastSlider": {
+    "description": "Auto imported from components/SellingFastSlider.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/Slider.vue"
+  }
+}
