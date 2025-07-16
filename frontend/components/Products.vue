@@ -33,7 +33,7 @@
                                                     }}</a></h4>
                                                     <div class="price_box">
                                                         <!-- <span class="old_price">$320.00</span> -->
-                                                        <span class="current_price">${{ item.price }}</span>
+                                                        <span class="current_price text-white">${{ item.price }}</span>
                                                     </div>
                                                 </div>
                                                 <div class="action_links">

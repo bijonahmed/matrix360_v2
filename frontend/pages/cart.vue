@@ -100,12 +100,11 @@
                                             <p class="cart_amount"><span>Flat Rate:</span> {{ pre_setting.currency }}{{
                                                 shipfees_amt }}</p>
                                         </div>
-                                        <a href="#">Calculate shipping</a>
-
+                                     
                                         <div class="cart_subtotal">
-                                            <p>Total</p>
-                                            <p class="cart_amount">{{ pre_setting.currency }}{{
-                                                parseFloat(itemSubtotal) + parseFloat(shipfees_amt) }}</p>
+                                            <p>Total</p><p class="cart_amount">{{ pre_setting.currency }}{{ parseFloat(itemSubtotal) + parseFloat(shipfees_amt) }}
+                                            
+                                            </p>
                                         </div>
                                         <div class="checkout_btn">
                                             <nuxt-link to="/checkout">Proceed to Checkout</nuxt-link>
@@ -151,7 +150,7 @@
                                                 </h4>
                                                 <div class="price_box">
                                                     <!-- <span class="old_price">$320.00</span> -->
-                                                    <span class="current_price">{{ item.price }}</span>
+                                                    <span class="current_price text-white">{{ item.price }}</span>
                                                 </div>
                                             </div>
                                             <div class="action_links d-none">

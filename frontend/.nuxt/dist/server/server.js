@@ -1624,37 +1624,37 @@ function shouldScrollToTop(route) {
 
 
 
-const _70879350 = () => interopDefault(__webpack_require__.e(/* import() | pages/about */ 13).then(__webpack_require__.bind(null, 95)));
-const _ef23e1ca = () => interopDefault(__webpack_require__.e(/* import() | pages/aircraft */ 14).then(__webpack_require__.bind(null, 94)));
-const _60ece6b6 = () => interopDefault(__webpack_require__.e(/* import() | pages/cart */ 15).then(__webpack_require__.bind(null, 96)));
-const _7b8cc56a = () => interopDefault(__webpack_require__.e(/* import() | pages/checkout */ 17).then(__webpack_require__.bind(null, 97)));
-const _67f656aa = () => interopDefault(__webpack_require__.e(/* import() | pages/contact */ 18).then(__webpack_require__.bind(null, 98)));
-const _a0e8c2f4 = () => interopDefault(__webpack_require__.e(/* import() | pages/forget-password */ 19).then(__webpack_require__.bind(null, 99)));
-const _9dc89798 = () => interopDefault(__webpack_require__.e(/* import() | pages/login */ 21).then(__webpack_require__.bind(null, 100)));
-const _6dc47f91 = () => interopDefault(__webpack_require__.e(/* import() | pages/payment */ 23).then(__webpack_require__.bind(null, 101)));
-const _14d79cdc = () => interopDefault(__webpack_require__.e(/* import() | pages/privacy-policy */ 24).then(__webpack_require__.bind(null, 102)));
-const _aee23b2e = () => interopDefault(__webpack_require__.e(/* import() | pages/products */ 26).then(__webpack_require__.bind(null, 103)));
-const _05408828 = () => interopDefault(__webpack_require__.e(/* import() | pages/register */ 27).then(__webpack_require__.bind(null, 104)));
-const _48790b3a = () => interopDefault(__webpack_require__.e(/* import() | pages/return-policy */ 28).then(__webpack_require__.bind(null, 105)));
-const _7dfc470e = () => interopDefault(__webpack_require__.e(/* import() | pages/success */ 29).then(__webpack_require__.bind(null, 106)));
-const _09448f6a = () => interopDefault(__webpack_require__.e(/* import() | pages/terms-and-condition */ 30).then(__webpack_require__.bind(null, 107)));
-const _43fb0532 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/message */ 31).then(__webpack_require__.bind(null, 108)));
-const _43a354bb = () => interopDefault(__webpack_require__.e(/* import() | pages/user/notification */ 32).then(__webpack_require__.bind(null, 109)));
-const _1a59573c = () => interopDefault(__webpack_require__.e(/* import() | pages/user/offer */ 33).then(__webpack_require__.bind(null, 110)));
-const _4b581823 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/order-details */ 34).then(__webpack_require__.bind(null, 111)));
-const _87f41c68 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/orderlist */ 35).then(__webpack_require__.bind(null, 112)));
-const _9386d034 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/payment */ 36).then(__webpack_require__.bind(null, 113)));
-const _698c12f6 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/personal-details */ 37).then(__webpack_require__.bind(null, 114)));
-const _1ca46609 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/profile */ 38).then(__webpack_require__.bind(null, 115)));
-const _516f47f3 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/settings */ 39).then(__webpack_require__.bind(null, 116)));
-const _bfaa4076 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/thankyou */ 40).then(__webpack_require__.bind(null, 117)));
-const _b34aaf48 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/ticket */ 41).then(__webpack_require__.bind(null, 118)));
-const _86375a6e = () => interopDefault(__webpack_require__.e(/* import() | pages/user/wallet */ 42).then(__webpack_require__.bind(null, 119)));
-const _1ff6a095 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/wishlist */ 43).then(__webpack_require__.bind(null, 120)));
-const _3117ddc6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 20).then(__webpack_require__.bind(null, 121)));
-const _59f9f039 = () => interopDefault(__webpack_require__.e(/* import() | pages/categories/_slug */ 16).then(__webpack_require__.bind(null, 122)));
-const _6c58d8fe = () => interopDefault(__webpack_require__.e(/* import() | pages/order/_slug */ 22).then(__webpack_require__.bind(null, 123)));
-const _e10e6d2a = () => interopDefault(__webpack_require__.e(/* import() | pages/product-details/_slug */ 25).then(__webpack_require__.bind(null, 124)));
+const _22f2db90 = () => interopDefault(__webpack_require__.e(/* import() | pages/about */ 13).then(__webpack_require__.bind(null, 95)));
+const _c1b0b18a = () => interopDefault(__webpack_require__.e(/* import() | pages/aircraft */ 14).then(__webpack_require__.bind(null, 94)));
+const _0bd79676 = () => interopDefault(__webpack_require__.e(/* import() | pages/cart */ 15).then(__webpack_require__.bind(null, 96)));
+const _4e19952a = () => interopDefault(__webpack_require__.e(/* import() | pages/checkout */ 17).then(__webpack_require__.bind(null, 97)));
+const _69a7b88b = () => interopDefault(__webpack_require__.e(/* import() | pages/contact */ 18).then(__webpack_require__.bind(null, 98)));
+const _1506bb34 = () => interopDefault(__webpack_require__.e(/* import() | pages/forget-password */ 19).then(__webpack_require__.bind(null, 99)));
+const _5033dfd8 = () => interopDefault(__webpack_require__.e(/* import() | pages/login */ 21).then(__webpack_require__.bind(null, 100)));
+const _0b676371 = () => interopDefault(__webpack_require__.e(/* import() | pages/payment */ 23).then(__webpack_require__.bind(null, 101)));
+const _6672c608 = () => interopDefault(__webpack_require__.e(/* import() | pages/privacy-policy */ 24).then(__webpack_require__.bind(null, 102)));
+const _816f0aee = () => interopDefault(__webpack_require__.e(/* import() | pages/products */ 26).then(__webpack_require__.bind(null, 103)));
+const _1bfa2048 = () => interopDefault(__webpack_require__.e(/* import() | pages/register */ 27).then(__webpack_require__.bind(null, 104)));
+const _1499871a = () => interopDefault(__webpack_require__.e(/* import() | pages/return-policy */ 28).then(__webpack_require__.bind(null, 105)));
+const _1b9f2aee = () => interopDefault(__webpack_require__.e(/* import() | pages/success */ 29).then(__webpack_require__.bind(null, 106)));
+const _2550a34a = () => interopDefault(__webpack_require__.e(/* import() | pages/terms-and-condition */ 30).then(__webpack_require__.bind(null, 107)));
+const _abba0d72 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/message */ 31).then(__webpack_require__.bind(null, 108)));
+const _6dd544db = () => interopDefault(__webpack_require__.e(/* import() | pages/user/notification */ 32).then(__webpack_require__.bind(null, 109)));
+const _bbb169c8 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/offer */ 33).then(__webpack_require__.bind(null, 110)));
+const _67642c03 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/order-details */ 34).then(__webpack_require__.bind(null, 111)));
+const _01f6f5ac = () => interopDefault(__webpack_require__.e(/* import() | pages/user/orderlist */ 35).then(__webpack_require__.bind(null, 112)));
+const _fb45d874 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/payment */ 36).then(__webpack_require__.bind(null, 113)));
+const _a69252b6 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/personal-details */ 37).then(__webpack_require__.bind(null, 114)));
+const _2e763c2e = () => interopDefault(__webpack_require__.e(/* import() | pages/user/profile */ 38).then(__webpack_require__.bind(null, 115)));
+const _095e4813 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/settings */ 39).then(__webpack_require__.bind(null, 116)));
+const _5819dfe5 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/thankyou */ 40).then(__webpack_require__.bind(null, 117)));
+const _184b307c = () => interopDefault(__webpack_require__.e(/* import() | pages/user/ticket */ 41).then(__webpack_require__.bind(null, 118)));
+const _2ed4dae9 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/wallet */ 42).then(__webpack_require__.bind(null, 119)));
+const _5034be96 = () => interopDefault(__webpack_require__.e(/* import() | pages/user/wishlist */ 43).then(__webpack_require__.bind(null, 120)));
+const _0e3e6cfd = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 20).then(__webpack_require__.bind(null, 121)));
+const _308d07ce = () => interopDefault(__webpack_require__.e(/* import() | pages/categories/_slug */ 16).then(__webpack_require__.bind(null, 122)));
+const _3bc41ba1 = () => interopDefault(__webpack_require__.e(/* import() | pages/order/_slug */ 22).then(__webpack_require__.bind(null, 123)));
+const _70f5a98b = () => interopDefault(__webpack_require__.e(/* import() | pages/product-details/_slug */ 25).then(__webpack_require__.bind(null, 124)));
 
 const emptyFn = () => {};
 external_vue_default.a.use(external_vue_router_default.a);
@@ -1666,127 +1666,127 @@ const routerOptions = {
   scrollBehavior: router_scrollBehavior,
   routes: [{
     path: "/about",
-    component: _70879350,
+    component: _22f2db90,
     name: "about"
   }, {
     path: "/aircraft",
-    component: _ef23e1ca,
+    component: _c1b0b18a,
     name: "aircraft"
   }, {
     path: "/cart",
-    component: _60ece6b6,
+    component: _0bd79676,
     name: "cart"
   }, {
     path: "/checkout",
-    component: _7b8cc56a,
+    component: _4e19952a,
     name: "checkout"
   }, {
     path: "/contact",
-    component: _67f656aa,
+    component: _69a7b88b,
     name: "contact"
   }, {
     path: "/forget-password",
-    component: _a0e8c2f4,
+    component: _1506bb34,
     name: "forget-password"
   }, {
     path: "/login",
-    component: _9dc89798,
+    component: _5033dfd8,
     name: "login"
   }, {
     path: "/payment",
-    component: _6dc47f91,
+    component: _0b676371,
     name: "payment"
   }, {
     path: "/privacy-policy",
-    component: _14d79cdc,
+    component: _6672c608,
     name: "privacy-policy"
   }, {
     path: "/products",
-    component: _aee23b2e,
+    component: _816f0aee,
     name: "products"
   }, {
     path: "/register",
-    component: _05408828,
+    component: _1bfa2048,
     name: "register"
   }, {
     path: "/return-policy",
-    component: _48790b3a,
+    component: _1499871a,
     name: "return-policy"
   }, {
     path: "/success",
-    component: _7dfc470e,
+    component: _1b9f2aee,
     name: "success"
   }, {
     path: "/terms-and-condition",
-    component: _09448f6a,
+    component: _2550a34a,
     name: "terms-and-condition"
   }, {
     path: "/user/message",
-    component: _43fb0532,
+    component: _abba0d72,
     name: "user-message"
   }, {
     path: "/user/notification",
-    component: _43a354bb,
+    component: _6dd544db,
     name: "user-notification"
   }, {
     path: "/user/offer",
-    component: _1a59573c,
+    component: _bbb169c8,
     name: "user-offer"
   }, {
     path: "/user/order-details",
-    component: _4b581823,
+    component: _67642c03,
     name: "user-order-details"
   }, {
     path: "/user/orderlist",
-    component: _87f41c68,
+    component: _01f6f5ac,
     name: "user-orderlist"
   }, {
     path: "/user/payment",
-    component: _9386d034,
+    component: _fb45d874,
     name: "user-payment"
   }, {
     path: "/user/personal-details",
-    component: _698c12f6,
+    component: _a69252b6,
     name: "user-personal-details"
   }, {
     path: "/user/profile",
-    component: _1ca46609,
+    component: _2e763c2e,
     name: "user-profile"
   }, {
     path: "/user/settings",
-    component: _516f47f3,
+    component: _095e4813,
     name: "user-settings"
   }, {
     path: "/user/thankyou",
-    component: _bfaa4076,
+    component: _5819dfe5,
     name: "user-thankyou"
   }, {
     path: "/user/ticket",
-    component: _b34aaf48,
+    component: _184b307c,
     name: "user-ticket"
   }, {
     path: "/user/wallet",
-    component: _86375a6e,
+    component: _2ed4dae9,
     name: "user-wallet"
   }, {
     path: "/user/wishlist",
-    component: _1ff6a095,
+    component: _5034be96,
     name: "user-wishlist"
   }, {
     path: "/",
-    component: _3117ddc6,
+    component: _0e3e6cfd,
     name: "index"
   }, {
     path: "/categories/:slug?",
-    component: _59f9f039,
+    component: _308d07ce,
     name: "categories-slug"
   }, {
     path: "/order/:slug?",
-    component: _6c58d8fe,
+    component: _3bc41ba1,
     name: "order-slug"
   }, {
     path: "/product-details/:slug?",
-    component: _e10e6d2a,
+    component: _70f5a98b,
     name: "product-details-slug"
   }],
   fallback: false
@@ -1958,7 +1958,7 @@ var nuxt_error_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "129fbc8c"
+  "76012cec"
   
 )
 
@@ -2223,7 +2223,7 @@ var nuxt_loading_component = Object(componentNormalizer["a" /* default */])(
   false,
   nuxt_loading_injectStyles,
   null,
-  "5ff9c6c0"
+  "70c09f20"
   
 )
 
@@ -2259,7 +2259,7 @@ var splashscreen_component = Object(componentNormalizer["a" /* default */])(
   false,
   splashscreen_injectStyles,
   "62a56550",
-  "5c853363"
+  "f21121fa"
   
 )
 
@@ -2288,7 +2288,7 @@ var default_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "7f443436"
+  "b9cd26d4"
   
 )
 

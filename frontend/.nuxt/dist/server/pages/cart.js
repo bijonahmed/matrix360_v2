@@ -87,7 +87,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "3839e498"
+  "6e3913d8"
   
 )
 
@@ -464,7 +464,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   "142beeaf",
-  "051571a6"
+  "2bd44bf4"
   
 )
 
@@ -544,7 +544,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   "7dbb8f16",
-  "be30e7a8"
+  "f43016e8"
   
 )
 
@@ -592,7 +592,7 @@ if(content.locals) module.exports = content.locals;
 // add CSS to SSR context
 var add = __webpack_require__(9).default
 module.exports.__inject__ = function (context) {
-  add("2e4b047e", content, true, context)
+  add("390b2ae5", content, true, context)
 };
 
 /***/ }),
@@ -602,9 +602,9 @@ module.exports.__inject__ = function (context) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_1c6dbf86_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(51);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_1c6dbf86_prod_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_1c6dbf86_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_1c6dbf86_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_1c6dbf86_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_fa2bd46a_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(51);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_fa2bd46a_prod_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_fa2bd46a_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_fa2bd46a_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_3_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_3_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_3_oneOf_1_2_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_style_index_0_id_fa2bd46a_prod_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
 
 
 /***/ }),
@@ -631,7 +631,7 @@ module.exports = ___CSS_LOADER_EXPORT___;
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/cart.vue?vue&type=template&id=1c6dbf86&
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/cart.vue?vue&type=template&id=fa2bd46a&
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -665,7 +665,7 @@ var render = function render() {
     attrs: {
       "to": "/products"
     }
-  }, [_c('span', [_vm._v("CONTINUE SHOPPING")])])], 1), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"col-lg-4 col-md-6 col-12\">", "</div>", [_vm._ssrNode("<div class=\"coupon_code right\">", "</div>", [_vm._ssrNode("<h3>Cart Totals</h3> "), _vm._ssrNode("<div class=\"coupon_inner\">", "</div>", [_vm._ssrNode("<div class=\"cart_subtotal\"><p>Subtotal</p> <p class=\"cart_amount\">" + _vm._ssrEscape(_vm._s(_vm.pre_setting.currency) + _vm._s(_vm.itemSubtotal)) + "</p></div> <div class=\"cart_subtotal\"><p>Shipping</p> <p class=\"cart_amount\"><span>Flat Rate:</span>" + _vm._ssrEscape(" " + _vm._s(_vm.pre_setting.currency) + _vm._s(_vm.shipfees_amt)) + "</p></div> <a href=\"#\">Calculate shipping</a> <div class=\"cart_subtotal\"><p>Total</p> <p class=\"cart_amount\">" + _vm._ssrEscape(_vm._s(_vm.pre_setting.currency) + _vm._s(parseFloat(_vm.itemSubtotal) + parseFloat(_vm.shipfees_amt))) + "</p></div> "), _vm._ssrNode("<div class=\"checkout_btn\">", "</div>", [_c('nuxt-link', {
+  }, [_c('span', [_vm._v("CONTINUE SHOPPING")])])], 1), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"col-lg-4 col-md-6 col-12\">", "</div>", [_vm._ssrNode("<div class=\"coupon_code right\">", "</div>", [_vm._ssrNode("<h3>Cart Totals</h3> "), _vm._ssrNode("<div class=\"coupon_inner\">", "</div>", [_vm._ssrNode("<div class=\"cart_subtotal\"><p>Subtotal</p> <p class=\"cart_amount\">" + _vm._ssrEscape(_vm._s(_vm.pre_setting.currency) + _vm._s(_vm.itemSubtotal)) + "</p></div> <div class=\"cart_subtotal\"><p>Shipping</p> <p class=\"cart_amount\"><span>Flat Rate:</span>" + _vm._ssrEscape(" " + _vm._s(_vm.pre_setting.currency) + _vm._s(_vm.shipfees_amt)) + "</p></div> <div class=\"cart_subtotal\"><p>Total</p><p class=\"cart_amount\">" + _vm._ssrEscape(_vm._s(_vm.pre_setting.currency) + _vm._s(parseFloat(_vm.itemSubtotal) + parseFloat(_vm.shipfees_amt)) + "\n                                        \n                                        ") + "</p></div> "), _vm._ssrNode("<div class=\"checkout_btn\">", "</div>", [_c('nuxt-link', {
     attrs: {
       "to": "/checkout"
     }
@@ -689,12 +689,12 @@ var render = function render() {
       attrs: {
         "to": `/product-details/${item.slug}`
       }
-    }, [_vm._v(_vm._s(item.name))])], 1), _vm._ssrNode(" <div class=\"price_box\"><span class=\"current_price\">" + _vm._ssrEscape(_vm._s(item.price)) + "</span></div>")], 2), _vm._ssrNode(" <div class=\"action_links d-none\"><ul><li class=\"add_to_cart\"><a href=\"cart.html\" title=\"Add to cart\">Add\n                                                        to\n                                                        cart</a></li></ul></div>")], 2)], 2)]), _vm._ssrNode(" <br>")], 2);
+    }, [_vm._v(_vm._s(item.name))])], 1), _vm._ssrNode(" <div class=\"price_box\"><span class=\"current_price text-white\">" + _vm._ssrEscape(_vm._s(item.price)) + "</span></div>")], 2), _vm._ssrNode(" <div class=\"action_links d-none\"><ul><li class=\"add_to_cart\"><a href=\"cart.html\" title=\"Add to cart\">Add\n                                                        to\n                                                        cart</a></li></ul></div>")], 2)], 2)]), _vm._ssrNode(" <br>")], 2);
   }), 0), _vm._ssrNode(" <br><br><br>")], 2)], 2)])], 2), _vm._ssrNode(" "), _c('Footer')], 2);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/cart.vue?vue&type=template&id=1c6dbf86&
+// CONCATENATED MODULE: ./pages/cart.vue?vue&type=template&id=fa2bd46a&
 
 // EXTERNAL MODULE: ./plugins/bus.js
 var bus = __webpack_require__(34);
@@ -1177,7 +1177,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "83809e56"
+  "810c1716"
   
 )
 

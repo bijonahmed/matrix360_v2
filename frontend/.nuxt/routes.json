@@ -2,218 +2,218 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\about.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
-    "_name": "_70879350"
+    "_name": "_22f2db90"
   },
   {
     "name": "aircraft",
     "path": "/aircraft",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\aircraft.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\aircraft.vue",
     "chunkName": "pages/aircraft",
-    "_name": "_ef23e1ca"
+    "_name": "_c1b0b18a"
   },
   {
     "name": "cart",
     "path": "/cart",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\cart.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\cart.vue",
     "chunkName": "pages/cart",
-    "_name": "_60ece6b6"
+    "_name": "_0bd79676"
   },
   {
     "name": "checkout",
     "path": "/checkout",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\checkout.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\checkout.vue",
     "chunkName": "pages/checkout",
-    "_name": "_7b8cc56a"
+    "_name": "_4e19952a"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\contact.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_67f656aa"
+    "_name": "_69a7b88b"
   },
   {
     "name": "forget-password",
     "path": "/forget-password",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\forget-password.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\forget-password.vue",
     "chunkName": "pages/forget-password",
-    "_name": "_a0e8c2f4"
+    "_name": "_1506bb34"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\login.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
-    "_name": "_9dc89798"
+    "_name": "_5033dfd8"
   },
   {
     "name": "payment",
     "path": "/payment",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\payment.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\payment.vue",
     "chunkName": "pages/payment",
-    "_name": "_6dc47f91"
+    "_name": "_0b676371"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\privacy-policy.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\privacy-policy.vue",
     "chunkName": "pages/privacy-policy",
-    "_name": "_14d79cdc"
+    "_name": "_6672c608"
   },
   {
     "name": "products",
     "path": "/products",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\products.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\products.vue",
     "chunkName": "pages/products",
-    "_name": "_aee23b2e"
+    "_name": "_816f0aee"
   },
   {
     "name": "register",
     "path": "/register",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\register.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\register.vue",
     "chunkName": "pages/register",
-    "_name": "_05408828"
+    "_name": "_1bfa2048"
   },
   {
     "name": "return-policy",
     "path": "/return-policy",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\return-policy.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\return-policy.vue",
     "chunkName": "pages/return-policy",
-    "_name": "_48790b3a"
+    "_name": "_1499871a"
   },
   {
     "name": "success",
     "path": "/success",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\success.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\success.vue",
     "chunkName": "pages/success",
-    "_name": "_7dfc470e"
+    "_name": "_1b9f2aee"
   },
   {
     "name": "terms-and-condition",
     "path": "/terms-and-condition",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\terms-and-condition.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\terms-and-condition.vue",
     "chunkName": "pages/terms-and-condition",
-    "_name": "_09448f6a"
+    "_name": "_2550a34a"
   },
   {
     "name": "user-message",
     "path": "/user/message",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\message.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\message.vue",
     "chunkName": "pages/user/message",
-    "_name": "_43fb0532"
+    "_name": "_abba0d72"
   },
   {
     "name": "user-notification",
     "path": "/user/notification",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\notification.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\notification.vue",
     "chunkName": "pages/user/notification",
-    "_name": "_43a354bb"
+    "_name": "_6dd544db"
   },
   {
     "name": "user-offer",
     "path": "/user/offer",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\offer.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\offer.vue",
     "chunkName": "pages/user/offer",
-    "_name": "_1a59573c"
+    "_name": "_bbb169c8"
   },
   {
     "name": "user-order-details",
     "path": "/user/order-details",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\order-details.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\order-details.vue",
     "chunkName": "pages/user/order-details",
-    "_name": "_4b581823"
+    "_name": "_67642c03"
   },
   {
     "name": "user-orderlist",
     "path": "/user/orderlist",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\orderlist.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\orderlist.vue",
     "chunkName": "pages/user/orderlist",
-    "_name": "_87f41c68"
+    "_name": "_01f6f5ac"
   },
   {
     "name": "user-payment",
     "path": "/user/payment",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\payment.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\payment.vue",
     "chunkName": "pages/user/payment",
-    "_name": "_9386d034"
+    "_name": "_fb45d874"
   },
   {
     "name": "user-personal-details",
     "path": "/user/personal-details",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\personal-details.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\personal-details.vue",
     "chunkName": "pages/user/personal-details",
-    "_name": "_698c12f6"
+    "_name": "_a69252b6"
   },
   {
     "name": "user-profile",
     "path": "/user/profile",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\profile.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\profile.vue",
     "chunkName": "pages/user/profile",
-    "_name": "_1ca46609"
+    "_name": "_2e763c2e"
   },
   {
     "name": "user-settings",
     "path": "/user/settings",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\settings.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\settings.vue",
     "chunkName": "pages/user/settings",
-    "_name": "_516f47f3"
+    "_name": "_095e4813"
   },
   {
     "name": "user-thankyou",
     "path": "/user/thankyou",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\thankyou.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\thankyou.vue",
     "chunkName": "pages/user/thankyou",
-    "_name": "_bfaa4076"
+    "_name": "_5819dfe5"
   },
   {
     "name": "user-ticket",
     "path": "/user/ticket",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\ticket.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\ticket.vue",
     "chunkName": "pages/user/ticket",
-    "_name": "_b34aaf48"
+    "_name": "_184b307c"
   },
   {
     "name": "user-wallet",
     "path": "/user/wallet",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\wallet.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\wallet.vue",
     "chunkName": "pages/user/wallet",
-    "_name": "_86375a6e"
+    "_name": "_2ed4dae9"
   },
   {
     "name": "user-wishlist",
     "path": "/user/wishlist",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\wishlist.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\user\\\\wishlist.vue",
     "chunkName": "pages/user/wishlist",
-    "_name": "_1ff6a095"
+    "_name": "_5034be96"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\index.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_3117ddc6"
+    "_name": "_0e3e6cfd"
   },
   {
     "name": "categories-slug",
     "path": "/categories/:slug?",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
     "chunkName": "pages/categories/_slug",
-    "_name": "_59f9f039"
+    "_name": "_308d07ce"
   },
   {
     "name": "order-slug",
     "path": "/order/:slug?",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\order\\\\_slug.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\order\\\\_slug.vue",
     "chunkName": "pages/order/_slug",
-    "_name": "_6c58d8fe"
+    "_name": "_3bc41ba1"
   },
   {
     "name": "product-details-slug",
     "path": "/product-details/:slug?",
-    "component": "D:\\\\Server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\product-details\\\\_slug.vue",
+    "component": "D:\\\\server\\\\htdocs\\\\matrix360_v2\\\\frontend\\\\pages\\\\product-details\\\\_slug.vue",
     "chunkName": "pages/product-details/_slug",
-    "_name": "_e10e6d2a"
+    "_name": "_70f5a98b"
   }
 ]
